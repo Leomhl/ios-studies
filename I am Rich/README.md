@@ -6,7 +6,7 @@ I am Rich is a very simple project to start my studies using Swift and XCode to 
 
 Show a diamond image and a diamond image.
 
-![](iamrich.gif)
+![I am rich screen recorder](iamrich.gif)
 
 
 ## 🛠️ Open and Run project
